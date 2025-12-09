@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets/Workshop-7.styles.css"
     },
     {
-      "Id": "/Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/wwwroot/css/IntroPage.css",
-      "PackagePath": "staticwebassets/css/IntroPage.css"
-    },
-    {
       "Id": "/Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },

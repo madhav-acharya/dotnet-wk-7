@@ -1,0 +1,23 @@
+@page "/profile"
+
+@{
+    // Storing static values in variables
+    var photoPath = "images/student1.jpg";
+    var studentName = "Student Name";
+    var courseName = ".NET MAUI Hybrid Training";
+    var batchYear = "2025";
+}
+
+<div>
+    <h2>Student Profile</h2>
+    
+    <div>
+        <img src="@photoPath" alt="Student Photo" width="200" height="200" />
+    </div>
+    
+    <div>
+        <p><strong>Student Name:</strong> @studentName</p>
+        <p><strong>Course Name:</strong> @courseName</p>
+        <p><strong>Batch Year:</strong> @batchYear</p>
+    </div>
+</div>
