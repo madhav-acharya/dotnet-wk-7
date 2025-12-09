@@ -1,0 +1,44 @@
+@page "/monkeys"
+
+<h2>Monkeys List</h2>
+
+@if (!monkeys.Any())
+{
+    <p>No monkeys found</p>
+}
+else
+{
+    <div class="monkey-cards">
+        @foreach (var monkey in monkeys)
+        {
+            <div class="card">
+                <img src="@monkey.Image" alt="@monkey.Name" class="monkey-image" />
+                <h3>@monkey.Name</h3>
+                <p><strong>Location:</strong> @monkey.Location</p>
+
+                @if (monkey.Location == "Africa & Asia")
+                {
+                    <p><em>This monkey is found in both Africa and Asia.</em></p>
+                }
+            </div>
+        }
+    </div>
+}
+
+<p>More Monkeys on this <a href="https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/">link</a>.</p>
+
+@code {
+    private List<Monkey> monkeys = new List<Monkey>
+    {
+        new Monkey { Name = "Baboon", Location = "Africa & Asia", Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg" },
+        new Monkey { Name = "Capuchin Monkey", Location = "Central & South America", Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg" },
+        new Monkey { Name = "Blue Monkey", Location = "Central and East Africa", Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg" }
+    };
+
+    public class Monkey
+    {
+        public string Name { get; set; }
+        public string Location { get; set; }
+        public string Image { get; set; }
+    }
+}

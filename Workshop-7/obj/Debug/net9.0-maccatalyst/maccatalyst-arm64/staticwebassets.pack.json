@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/images/college.png"
     },
     {
+      "Id": "/Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/wwwroot/images/student1.jpeg",
+      "PackagePath": "staticwebassets/images/student1.jpeg"
+    },
+    {
       "Id": "/Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },

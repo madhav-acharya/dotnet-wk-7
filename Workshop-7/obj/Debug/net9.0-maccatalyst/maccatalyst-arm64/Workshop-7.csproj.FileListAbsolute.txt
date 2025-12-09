@@ -272,7 +272,6 @@
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/scopedcss/bundle/Workshop-7.styles.css
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/scopedcss/projectbundle/Workshop-7.bundle.scp.css
-/Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/9niv0uezqn-di18gc0nyx.gz
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/045jszsk6b-bpk8xqwxhs.gz
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/ne1jdeoib5-8inm30yfxf.gz
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/ecsv01ocd1-q7ef3y6gts.gz
@@ -288,7 +287,6 @@
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.buildMultiTargeting.Workshop-7.props
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.buildTransitive.Workshop-7.props
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/staticwebassets.pack.json
-/Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/publish/9niv0uezqn-di18gc0nyx.br
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/publish/045jszsk6b-bpk8xqwxhs.br
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/publish/ne1jdeoib5-8inm30yfxf.br
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/publish/ecsv01ocd1-q7ef3y6gts.br
@@ -344,3 +342,5 @@
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/Workshop-7.genruntimeconfig.cache
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/ref/Workshop-7.dll
 /Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/Workshop-7.sourcelink.json
+/Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/9niv0uezqn-bjxw424mgg.gz
+/Users/mac/RiderProjects/dotnet/Workshop-7/Workshop-7/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/compressed/publish/9niv0uezqn-bjxw424mgg.br
